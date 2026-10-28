@@ -1,0 +1,3 @@
+- Sprites y tiles de Dragon Quest 4 NES
+- Sprites de pokemons de Pokemon Gold/Silver GBC
+- Pokebolas de Pokemon Ryby/Saphire GBA
